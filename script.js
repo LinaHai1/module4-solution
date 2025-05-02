@@ -1,3 +1,4 @@
+// script.js
 (function () {
   var names = ["Jarid", "Adam", "Sofia", "Lina", "Jamal", "Jawad", "Janat", "Khalil", "Sarah", "Mouad", "Jaber", "Salma"];
 
